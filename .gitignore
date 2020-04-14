@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+*.ncb
+*.db
+*.sdf
+/**/[Dd]ebug
+/**/ipch/*
